@@ -12,9 +12,10 @@ Mid-Bootcamp project based on Plant@net tool dataset on plant diversity collecte
 ## Instructions
 All the elements needed to run the recommender are in this repo. The only file missing is the "config.py" with your Spotify credentials.
 
-1. Open the `DEMO_song_recommender.ipynb`
-2. Run the `best_recommender()` function
-3. Input title of a song and artist.
-4. Enjoy!
+1. Download the files contained in this repo.
+2. Open the `DEMO_song_recommender.ipynb`
+3. Run the `best_recommender()` function
+4. Input title of a song and artist.
+5. Enjoy!
 
 
