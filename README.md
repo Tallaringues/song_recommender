@@ -1,5 +1,5 @@
 # Mini-Project: Song Recommender
-Group project to build a song recommender that takes input from the user.
+Group project to build a song recommender that takes input from the user and returns five songs from the database.
 
 ## Aims of the project
 
@@ -10,7 +10,7 @@ Group project to build a song recommender that takes input from the user.
 - Prepare a marketing presentation applying storytelling tecniques.
 
 ## Instructions
-All the elements needed to run the recommender are in this repo. The only file missing is the "config.py" with your Spotify credentials.
+All the elements needed to run the recommender are in this repo. The only file missing is the `config.py` with your Spotify credentials.
 
 1. Download the files contained in this repo.
 2. Open the `DEMO_song_recommender.ipynb`
