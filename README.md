@@ -1,5 +1,5 @@
 # Mini-Project: Song Recommender
-Mid-Bootcamp project based on Plant@net tool dataset on plant diversity collected by citizen science.
+Group project to build a song recommender that takes input from the user.
 
 ## Aims of the project
 
